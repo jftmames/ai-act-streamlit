@@ -19,3 +19,8 @@ st.page_link("pages/04_Clausulas.py", label="4) Cláusulas contractuales")
 st.page_link("pages/05_Auditoria_Express.py", label="5) Auditoría Express")
 st.page_link("pages/06_ModelCard.py", label="6) Model Card")
 st.info("Consejo: recorre el flujo en orden y descarga los informes en cada paso.")
+
+
+st.markdown("---")
+st.caption("Demo pública. Usa datos ficticios. Si necesitas almacenar datos reales en la UE, conéctalo a Supabase EU y no publiques la app.")
+
