@@ -1,0 +1,16 @@
+criteria:
+  - id: gender_balance
+    label: "Balance de género en dataset"
+    weight: 1
+  - id: minority_representation
+    label: "Representación de minorías"
+    weight: 1
+  - id: group_metrics
+    label: "Métricas por grupo (precisión/recall)"
+    weight: 2
+  - id: human_review
+    label: "Revisión humana documentada"
+    weight: 2
+  - id: training_transparency
+    label: "Transparencia en datos de entrenamiento"
+    weight: 1
