@@ -1,0 +1,15 @@
+jurisdictions:
+  eu:
+    processing: "El Proveedor actuará como Encargado conforme al RGPD y limitará el tratamiento a las finalidades contratadas."
+    aia_audit: "El Proveedor mantendrá actualizado el AIA/DPIA y permitirá auditorías razonables con preaviso."
+    data_location: "Los datos personales permanecerán alojados dentro del Espacio Económico Europeo."
+  es:
+    processing: "El Encargado cumplirá la LOPDGDD y demás normativa española aplicable."
+    data_location: "El tratamiento y almacenamiento se realizará en centros ubicados en la UE."
+options:
+  explainability:
+    standard: "El Proveedor proporcionará explicaciones significativas de las salidas del sistema cuando impacten decisiones sobre personas."
+  bias_testing:
+    standard: "Se realizarán pruebas de sesgo por grupo de forma trimestral, con informe para el Cliente."
+  incident_notice:
+    standard: "El Proveedor notificará incidentes de seguridad al Cliente en <72 horas> desde su detección."
