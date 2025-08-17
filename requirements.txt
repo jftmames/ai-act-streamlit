@@ -1,1 +1,6 @@
+streamlit
+pyyaml
+python-docx
+pandas
+numpy
 
